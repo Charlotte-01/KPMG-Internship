@@ -10,7 +10,7 @@ The client provided KPMG with 3 datasets:
 ##### 1. Data Quality Assessment
 Assessment of data quality and completeness in preparation for analysis
 
-![](Data Quality Framework Table.png)
+![](https://github.com/Charlotte-01/KPMG-Internship/blob/master/Data%20Quality%20Framework%20Table.png)
 
 ##### 2. Data Insights
 Targeting high value customers based on customer demographics and attributes
