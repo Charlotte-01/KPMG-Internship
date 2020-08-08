@@ -12,7 +12,7 @@ Assessment of data quality and completeness in preparation for analysis
 
 [Cleaned Data](https://github.com/Charlotte-01/KPMG-Internship/blob/master/Clean%2C%20Merge%20Data.ipynb)
 
-[Analysis Email Report](https://github.com/Charlotte-01/KPMG-Internship/blob/master/Email.docx)
+[Email Analysis Report](https://github.com/Charlotte-01/KPMG-Internship/blob/master/Email.docx)
 
 ![](https://github.com/Charlotte-01/KPMG-Internship/blob/master/Data%20Quality%20Framework%20Table.png)
 
