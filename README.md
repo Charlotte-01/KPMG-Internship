@@ -20,3 +20,4 @@ Assessment of data quality and completeness in preparation for analysis
 Targeting high value customers based on customer demographics and attributes
 ##### 3. Data Insights and Presentation
 Using visulisation to present insights
+![](https://github.com/Charlotte-01/KPMG-Internship/blob/master/summary_dashboard.png)
